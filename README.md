@@ -11,9 +11,9 @@ The content of this course includes:
 * Introduction to theory of computation and NP-Completeness
 * Introduction to Blockchain Technologies
 
-### This course includes 5 assignments:
-* [Assignment1](Assignment\ /1hw1.pdf)
-* [Assignment2](Assignment\ 2/hw2.pdf) 
-* [Assignment3](Assignment\ 3/hw3.pdf) 
-* [Assignment4](Assignment\ 4/hw4.pdf) 
-* [Assignment5](Assignment\ 5/hw5.pdf) 
+### This course includes 5 assignments
+Assignment 1: Discrete mathematics and combinatorics
+Assignment 2: Asymptotics
+Assignment 3: Trees, Hashing, Greedy Algorithms, Dynamic Programming, etc
+Assignment 4: MSTs, SSSPs, Topological Sort, etc.
+Assignment 5: Theory of computation, NPC problems

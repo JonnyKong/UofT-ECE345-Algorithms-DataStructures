@@ -12,7 +12,7 @@ The content of this course includes:
 * Introduction to Blockchain Technologies
 
 ### This course includes 5 assignments:
-* [Assignment1](Assignment 1/hw1.pdf)
+* [Assignment1]('Assignment 1/hw1.pdf')
 * [Assignment2](Assignment 2/hw2.pdf) 
 * [Assignment3](Assignment 3/hw3.pdf) 
 * [Assignment4](Assignment 4/hw4.pdf) 
